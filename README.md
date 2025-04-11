@@ -31,7 +31,7 @@ The goal of this project is to demonstrate data analysis and visualization capab
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](https://github.com/NainuFathima/Adventure-Works-Insights-Dashboard/blob/682d7adcfd4adf30aaf045f3e149baa72fc953c8/TABLEAU%20Dashboard%20Image.png)
 
 
 ## 🚀 How to Use
