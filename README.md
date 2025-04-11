@@ -17,7 +17,7 @@ This Tableau dashboard provides:
 
 - **Excel** – for cleaning and preparing the data
 - **Tableau** – for building the dashboard and data visualization
-- **Adventure Works Dataset** – Microsoft's sample dataset for business analytics
+- **Adventure Works Dataset** 
 
 ## 📌 Objective
 
@@ -55,7 +55,7 @@ The goal of this project is to demonstrate data analysis and visualization capab
 
 ---
 
-**Author:** [Nainu]  
+**Author:** Nainu  
 **Tools:** Tableau | Adventure Works Dataset | Excel  
  
 
