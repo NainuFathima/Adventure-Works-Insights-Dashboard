@@ -1,4 +1,4 @@
-# Adventure Works Sales Insights | Tableau Dashboard
+# Adventure Work Cycles Insights | Tableau Dashboard
 
 An interactive Tableau dashboard analyzing the Adventure Works Cycles dataset. This project highlights key business metrics such as sales, profit, customer distribution, and product performance across various time periods and regions.
 
@@ -55,8 +55,12 @@ The goal of this project is to demonstrate data analysis and visualization capab
 
 ---
 
-**Author:** Nainu  
-**Tools:** Tableau | Adventure Works Dataset | Excel  
+## 📩 Contact
+
+Author : **Nainu**
+- Email: **nainufathima1@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/nainu-fathima-26a525219**
+- Tools : Tableau | Excel | Adventure work cycles data set  
  
 
 
