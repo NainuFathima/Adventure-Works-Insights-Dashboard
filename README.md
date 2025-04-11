@@ -26,7 +26,7 @@ The goal of this project is to demonstrate data analysis and visualization capab
 ## 📁 Files Included
 
 - `AdventureWorks_Dashboard.twb` – Tableau workbook file (or `.twbx` if it’s a packaged workbook)
-- Dashboard image (`/images/dashboard-preview.png`)
+- Dashboard image (https://github.com/NainuFathima/Adventure-Works-Insights-Dashboard/blob/682d7adcfd4adf30aaf045f3e149baa72fc953c8/TABLEAU%20Dashboard%20Image.png)
 - `README.md` – Project documentation
 
 ## 📷 Dashboard Preview
