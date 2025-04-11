@@ -31,7 +31,7 @@ The goal of this project is to demonstrate data analysis and visualization capab
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview ] ()
+![Dashboard Preview](images/dashboard-preview.png)
 
 
 ## 🚀 How to Use
